@@ -1,0 +1,71 @@
+﻿acidic_glavenus,Acidic Glavenus
+alatreon,Alatreon
+ancient_leshen,Ancient Leshen
+anjanath,Anjanath,h
+azure_rathalos,Azure Rathalos,h
+banbaro,Banbaro
+barioth,Barioth
+barroth,Barroth,h
+bazelgeuse,Bazelgeuse,h
+behemoth,Behemoth
+beotodus,Beotodus
+black_diablos,Black Diablos,h
+blackveil_vaal_hazak,Blackveil Vaal Hazak
+brachydios,Brachydios
+brute_tigrex,Brute Tigrex
+coral_pukei-pukei,Coral Pukei-Pukei
+deviljho,Deviljho
+diablos,Diablos,h
+dodogama,Dodogama,h
+ebony_odogaron,Ebony Odogaron
+fatalis,Fatalis
+frostfang_barioth,Frostfang Barioth
+fulgur_anjanath,Fulgur Anjanath
+furious_rajang,Furious Rajang
+glavenus,Glavenus
+gold_rathian,Gold Rathian
+great_girros,Great Girros,h
+great_jagras,Great Jagras,h
+jyuratodus,Jyuratodus,h
+kirin,Kirin,h
+kulu-ya-ku,Kulu-Ya-Ku,h
+kulve_taroth,Kulve Taroth,h
+kushala_daora,Kushala Daora,h
+lavasioth,Lavasioth,h
+legiana,Legiana,h
+leshen,Leshen
+lunastra,Lunastra,h
+namielle,Namielle
+nargacuga,Nargacuga
+nergigante,Nergigante
+nightshade_paolumu,Nightshade Paolumu
+odogaron,Odogaron,h
+paolumu,Paolumu,h
+pink_rathian,Pink Rathian,h
+pukei-pukei,Pukei-Pukei,h
+radobaan,Radobaan,h
+raging_brachydios,Raging Brachydios
+rajang,Rajang
+rathalos,Rathalos,h
+rathian,Rathian,h
+ruiner_nergigante,Ruiner Nergigante
+safi'jiiva,Safi'jiiva
+savage_deviljho,Savage Deviljho
+scarred_yian_garuga,Scarred Yian Garuga
+seething_bazelgeuse,Seething Bazelgeuse
+shara_ishvalda,Shara Ishvalda
+shrieking_legiana,Shrieking Legiana
+silver_rathalos,Silver Rathalos
+stygian_zinogre,Stygian Zinogre
+teostra,Teostra,h
+tigrex,Tigrex
+tobi-kadachi,Tobi-Kadachi,h
+tzitzi-ya-ku,Tzitzi-Ya-Ku,h
+uragaan,Uragaan,h
+vaal_hazak,Vaal Hazak
+velkhana,Velkhana
+viper_tobi-kadachi,Viper Tobi-Kadachi
+xeno'jiiva,Xeno'jiiva
+yian_garuga,Yian Garuga
+zinogre,Zinogre
+zorah_magdaros,Zorah Magdaros
